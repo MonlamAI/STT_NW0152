@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
-  <freeTranslationFont />
+  <transcriptionFont>Monlam Uni OuChan2, 18, Regular</transcriptionFont>
+  <freeTranslationFont>Segoe UI, 18, Regular</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>NW0152</Title>
   <FundingProjectTitle />
